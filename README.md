@@ -10,14 +10,14 @@ View the modell: https://collaborate.shapr3d.com/v/fjZZtPa-cBRpMoNLevACg
 # Print it yourself!
 HC is 3D printed, and optimised for FDM printers, if you are lucky bastard and have one at home, just download the stl and print it. If not you can have it printed at the Fachschaft for materialcost. You also need an anti slip surface on the bottom, so it doas not slide down from the table. I use griptape for skateboards, because its good shit, but use whatever you want. If you are a legend you superglue it to the table. 
 
-Print parameters:
-Walls:         2
-Infill:        20%
-Layer height:  idc
-Material:      Pla, Petg, Peek, Pekk (preferably something that doas not melt, so petg or asa)
-Support:       No
 
-
+| Parameter | Options |
+| --- | --- |
+| `Walls` | 2 |
+| `Infill` | 20% |
+| `Layer height` | idc |
+| `Material` |Pla, Petg, Asa, Legends print it from Peek or pekk |
+| `Support` | No |
 # Support my work
 Donate me so I can afford to put coffe on my own shit tyty ^^
 https://www.paypal.com/donate/?hosted_button_id=DGZ7K83ZGGEB8
