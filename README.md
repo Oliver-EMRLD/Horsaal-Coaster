@@ -12,3 +12,4 @@ HC is 3D printed, and optimised for FDM printers, if you are lucky bastard and h
 
 # Support my work
 Donate me so I can afford to put coffe on my own shit tyty ^^
+https://www.paypal.com/donate/?hosted_button_id=DGZ7K83ZGGEB8
