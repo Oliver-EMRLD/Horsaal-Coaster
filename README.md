@@ -18,6 +18,10 @@ HC is 3D printed, and optimised for FDM printers, if you are lucky bastard and h
 | `Layer height` | idc |
 | `Material` |Pla, Petg, Asa, Legends print it from Peek or pekk |
 | `Support` | No |
+
+# Customization
+If you want to be original write something on the coaster in the slicer w the built in tools. By default it has a Blåhaj on it caus its cool ig. 
+
 # Support my work
 Donate me so I can afford to put coffe on my own shit tyty ^^
 https://www.paypal.com/donate/?hosted_button_id=DGZ7K83ZGGEB8
