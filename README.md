@@ -1,5 +1,5 @@
 # Hörsaal-coaster
-You would like a cheaky coffe, hot coco or tea during Master Drmotoa‘s lecture :3, but you can only put it on the dirty floor where you will inevitably spill it on your stuff? Look no further, with the Hörsaal-coaster you can have your bewrage of choice next to you during thoose long lectures! It provides a perfectly leveled surface for your cup or flask, so it doas not spill or slides down into your lap. 
+You would like a cheaky coffe, hot coco or tea during a lecture but you can only put it on the dirty floor where you will inevitably spill it on your stuff? Look no further, with the Hörsaal-coaster you can have your bewrage of choice next to you during thoose long lectures! It provides a perfectly leveled surface for your cup or flask, so it doas not spill or slides down into your lap. 
 
 <p align="center" width="100%">
 <img src='/IMG_3380.jpeg' width='500'>
@@ -14,7 +14,7 @@ You would like a cheaky coffe, hot coco or tea during Master Drmotoa‘s lecture
 </p>
 
 
-View the modell: https://collaborate.shapr3d.com/v/fjZZtPa-cBRpMoNLevACg
+View the modell:3 https://collaborate.shapr3d.com/v/fjZZtPa-cBRpMoNLevACg
 
 
 
