@@ -19,7 +19,7 @@ View the modell:3 https://collaborate.shapr3d.com/v/fjZZtPa-cBRpMoNLevACg
 
 
 # Print it yourself!
-HC is 3D printed, and optimised for FDM printers, if you are lucky bastard and have one at home, just download the stl and print it. If not you can have it printed at the Fachschaft for materialcost. You also need an anti slip surface on the bottom, so it doas not slide down from the table. I use griptape for skateboards, because its good shit, but use whatever you want. 
+HC is 3D printed, and optimised for FDM printers, if you are lucky bastard and have one at home, just download the stl and print it. If not you can have it printed at the Fachschaft for materialcost (https://fsmb.at/en/3d-printer/) . You also need an anti slip surface on the bottom, so it doas not slide down from the table. I use griptape for skateboards, because its good shit, but use whatever you want. 
 
 
 | Parameter | Options |
